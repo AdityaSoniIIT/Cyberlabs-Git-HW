@@ -101,3 +101,9 @@ Potential for centralization: If a small group of miners controls a large amount
 14. Kashish :-
    <br><strong>Hashing</strong><br>
 Hashing is the cryptographic process fundamental to its security and immutability. It involves taking an input of any size and producing a fixed-size string of characters, which serves as a unique digital fingerprint for the original data. In blockchain, each block contains a hash of the previous block's data, creating a chain of blocks linked together by these hashes. Any alteration to the data in a block would result in a completely different hash, alerting the network to tampering attempts. This property ensures the integrity of the blockchain, making it highly resistant to fraud and unauthorized changes. Hashing also facilitates efficient data retrieval and verification, crucial for consensus mechanisms like proof of work and proof of stake, which underpin the decentralized nature of blockchain networks. With the help of many such cryptographic hash algorithms like SHA and MD5 hashing of data can be done securely.
+
+15. Aditya :-
+ <br><strong> Ethereum blockchain </strong><br>
+Ethereum blockchain revolutionizes digital transactions with its decentralized platform, offering more than just a cryptocurrency. Built upon blockchain technology, Ethereum enables smart contracts and decentralized applications (DApps) to run without interference from third parties or censorship. Its native cryptocurrency, Ether, fuels transactions within the network. What sets Ethereum apart is its ability to execute complex programmable transactions autonomously, expanding its utility beyond simple financial transfers. Ethereum's flexibility and scalability have sparked innovation across various industries, from finance to supply chain management and beyond. As a pioneer of blockchain technology, Ethereum continues to shape the future of decentralized computing and digital trust.
+    
+
